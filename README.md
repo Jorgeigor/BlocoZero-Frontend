@@ -54,13 +54,7 @@ Você precisará do [Node.js](https://nodejs.org/) e [Git] instalados em sua má
     yarn install
     ```
 
-3.  **Variáveis de Ambiente:**
-    Crie um arquivo `.env` na raiz do projeto para configurar a conexão com o Backend:
-    ```env
-    VITE_API_URL=http://localhost:8080
-    ```
-
-4.  **Execute o projeto:**
+3.  **Execute o projeto:**
     ```bash
     npm run dev
     ```
