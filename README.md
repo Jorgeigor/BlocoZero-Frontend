@@ -2,7 +2,7 @@
 
 O **BlocoZero** é uma plataforma SaaS desenvolvida para a gestão civil, otimizando o acompanhamento de obras, cronogramas, estoques e relatórios de progresso físico e financeiro. Este repositório contém o código fonte da interface do usuário (Frontend).
 
-![Status](https://img.shields.io/badge/Status-Em_Desenvolvimento-yellow?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Concluído-brightgreen?style=flat-square)
 ![React](https://img.shields.io/badge/React-18.0+-61DAFB?logo=react&style=flat-square)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.0+-3178C6?logo=typescript&style=flat-square)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-3.0+-38B2AC?logo=tailwind-css&style=flat-square)
@@ -42,8 +42,8 @@ Você precisará do [Node.js](https://nodejs.org/) e [Git] instalados em sua má
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/seu-usuario/BlocoZero-Frontend.git](https://github.com/seu-usuario/BlocoZero-Frontend.git)
-    cd BlocoZeroWeb
+    git clone [https://github.com/seu-usuario/BlocoZero-Frontend.git](https://github.com/Jorgeigor/BlocoZero-Frontend.git)
+    cd BlocoZero-Frontend
     cd web-ds
     ```
 
